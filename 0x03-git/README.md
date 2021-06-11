@@ -1,1 +1,1 @@
-This directory is part of the solutions to the my GIT project.
+This directory is part of the solutions to the GIT projects on ALX SE journey.
